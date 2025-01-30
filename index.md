@@ -7,7 +7,7 @@ hero:
   text: "基于 OpenComputers 的 GTNH 物联网系统"
   tagline: 
   image:
-    src: /resources/oni.png
+    src: oni.png
     alt: ONi
   actions:
     - theme: brand

@@ -37,6 +37,6 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/ONi-Project/ONi' }
     ],
 
-    logo: '/resources/oni.png'
+    logo: 'oni.png'
   }
 })
