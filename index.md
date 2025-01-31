@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "ONi"
   text: "基于 OpenComputers 的 GTNH 物联网系统"
-  tagline: 
+  tagline: The Future is Now
   image:
     src: oni.png
     alt: ONi
